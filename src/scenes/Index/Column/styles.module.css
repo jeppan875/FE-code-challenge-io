@@ -2,3 +2,9 @@
   max-height: 90vh;
   overflow-y: scroll;
 }
+
+.title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 16px;
+}
